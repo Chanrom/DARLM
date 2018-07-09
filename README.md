@@ -27,3 +27,16 @@ please specify which data file you will use in the config file.
 ## SST dataset
 
 Refer to TREC.
+
+## Citation
+If using this code, please cite:
+Qianrong Zhou, Xiaojie Wang, Xuan Dong, [Learned in Translation: Contextualized Word Vectors](https://www.ijcai.org/proceedings/2018/0644.pdf)
+```
+@InProceedings{zhou2016lstmtaginference,
+  Title                    = {Recurrent neural word segmentation with tag inference},
+  Author                   = {Qianrong Zhou, Long Ma, Zhenyu Zheng, Yue Wang, and Xiaojie Wang},
+  Booktitle                = {Proceedings of The Fifth Conference on Natural Language Processing and Chinese Computing \& The Twenty Fourth
+International Conference on Computer Processing of Oriental Languages},
+  Year                     = {2016}
+}
+```
