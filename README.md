@@ -30,6 +30,7 @@ Refer to TREC.
 
 ## Citation
 If using this code, please cite:
+
 Qianrong Zhou, Xiaojie Wang, Xuan Dong, [Differentiated Attentive Representation Learning for Sentence Classification](https://www.ijcai.org/proceedings/2018/0644.pdf)
 ```
 @inproceedings{zhou2018differentiated,
