@@ -1,5 +1,5 @@
 # Differentiated Attentive Representation Learning for Sentence Classification
-Implementation of the paper *Differentiated Attentive Representation Learning for Sentence Classification*.
+Implementation of the paper [*Differentiated Attentive Representation Learning for Sentence Classification*](https://www.ijcai.org/proceedings/2018/0644.pdf).
 
 ## Environment
 Tested on Python 2.7 and PyTorch 0.2.0.
@@ -30,13 +30,18 @@ Refer to TREC.
 
 ## Citation
 If using this code, please cite:
-Qianrong Zhou, Xiaojie Wang, Xuan Dong, [Learned in Translation: Contextualized Word Vectors](https://www.ijcai.org/proceedings/2018/0644.pdf)
+Qianrong Zhou, Xiaojie Wang, Xuan Dong, [Differentiated Attentive Representation Learning for Sentence Classification](https://www.ijcai.org/proceedings/2018/0644.pdf)
 ```
-@InProceedings{zhou2016lstmtaginference,
-  Title                    = {Recurrent neural word segmentation with tag inference},
-  Author                   = {Qianrong Zhou, Long Ma, Zhenyu Zheng, Yue Wang, and Xiaojie Wang},
-  Booktitle                = {Proceedings of The Fifth Conference on Natural Language Processing and Chinese Computing \& The Twenty Fourth
-International Conference on Computer Processing of Oriental Languages},
-  Year                     = {2016}
+@inproceedings{zhou2018differentiated,
+  title     = {Differentiated Attentive Representation Learning for Sentence Classification},
+  author    = {Qianrong Zhou and Xiaojie Wang and Xuan Dong},
+  booktitle = {Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI-18}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  pages     = {4630--4636},
+  year      = {2018},
+  month     = {7},
+  doi       = {10.24963/ijcai.2018/644},
+  url       = {https://doi.org/10.24963/ijcai.2018/644},
 }
 ```
