@@ -1,0 +1,13 @@
+
+*.pyc
+
+runs/
+
+trec/data/
+trec/log/
+
+sst/data/
+sst/log/
+
+data/sst_data/raw_data/
+data/trec_data/raw_data/
