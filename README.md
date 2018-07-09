@@ -3,6 +3,7 @@ Implementation of the paper [*Differentiated Attentive Representation Learning f
 
 ## Environment
 Tested on Python 2.7 and PyTorch 0.2.0.
+
 [Tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) is needed if you want visualize the loss or accuracy of the model.
 
 To run the DARLM, please first download some [raw data](https://drive.google.com/drive/folders/1KrfV8afg8LAhgXWewekM7cBT9IRmW-iW?usp=sharing) (corpus & wordvec), then put them in directory ``data/``.
